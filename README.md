@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MorPoli
+- 👀 I’m interested in Science (Chemistry , Physics)
+- 🌱 I’m currently learning Python, SQL, Arduino C/C++
+- 📫 My e-mail: Mor_poli@vk.com
+- 😄 Pronouns: he/his
